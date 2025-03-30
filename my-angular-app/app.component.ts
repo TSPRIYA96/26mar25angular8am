@@ -8,5 +8,5 @@
     })
 
     export class AppComponent {
-      title = 'my-app';
+      title = 'my-angualar-app';
     }
